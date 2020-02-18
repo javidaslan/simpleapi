@@ -27,4 +27,4 @@ def test():
 
 if __name__ == "__main__":
     rook.start(token='dd0f1be251f3017e3e9da1555b9cd2fc9a0dddf103022a29f5342fff8af3b4b4')
-    app.run(host="0.0.0.0", port=5000, threaded=True)
+    app.run(host="0.0.0.0", port=8080, threaded=True)
